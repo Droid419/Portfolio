@@ -1,0 +1,495 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#HomePage {
+    position: absolute;
+    width: 1903px;
+    height: 4068px;
+    background-color: rgba(220,220,220,1);
+    overflow: hidden;
+}
+header{
+    top: 0px;
+    left: -1px;
+    width: 1920px;
+    height: 953px;
+    background: transparent url(images/background.jpg) 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#HOME {
+    left: 964.869px;
+    top: 44.5px;
+    position: fixed;
+    overflow: hidden;
+    width: 146px;
+    height: 31px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18px;
+    color: rgba(225,226,230,0.988);
+}
+#PROJECTS {
+    left: 1148.091px;
+    top: 44.5px;
+    position: fixed;
+    overflow: visible;
+    width: 117px;
+    height: 33px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18x;
+    color: rgba(225,226,230,0.988);
+}
+#ABOUT {
+    left: 1326.832px;
+    top: 44.5px;
+    position: fixed;
+    overflow: visible;
+    width: 85px;
+    height: 33px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 18px;
+    color: rgba(225,226,230,0.988);
+}
+#CONTACT {
+    left: 1460.531px;
+    top: 44.5px;
+    position: fixed;
+    overflow: hidden;
+    width: 146px;
+    height: 31px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight:bolder;
+    font-size: 18px;
+    color: rgba(225,226,230,0.988);
+}
+#HEY_THERE_ {
+    left: 127px;
+    top: 331px;
+    position: absolute;
+    overflow: hidden;
+    width: 198px;
+    height: 29px;
+    text-align: center;
+    font-family: Perpetua Titling MT;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 25px;
+    color: rgba(255,255,255,1);
+    letter-spacing: 1px;
+}
+#I_AM_KELLY {
+    left: 116px;
+    top: 374px;
+    position: absolute;
+    overflow: hidden;
+    width: 366px;
+    height: 69px;
+    text-align: center;
+    font-family: Perpetua Titling MT;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 65px;
+    color: rgba(225,226,230,0.988);
+}
+#PROGRAMMER_UIUX_DESIGNER_AND_W {
+    left: 116px;
+    top: 480px;
+    position: absolute;
+    overflow: visible;
+    width: 366px;
+    height: 57px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(225,226,230,0.988);
+}
+#About_Me {
+    left: 1122.057px;
+    top: 1337px;
+    position: absolute;
+    overflow: visible;
+    width: 189px;
+    height: 47px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    color: rgba(0,0,0,0.678);
+}
+#Line_1 {
+    fill: transparent;
+    stroke: rgba(55,40,40,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_1 {
+    overflow: visible;
+    position: absolute;
+    width: 251px;
+    height: 1px;
+    left: 1122.482px;
+    top: 1405.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+a{
+    text-decoration: none;
+    color: #E1E2E6;
+}
+#DROIDS__PORTFOLIO {
+    left: 143px;
+    top: 27px;
+    position: fixed;
+    overflow: hidden;
+    width: 150px;
+    height: 70px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(0,111,255,0.871);
+}
+.site-logo{
+    position: fixed;
+    width: 98px;
+    height: 98px;
+    left: 18px;
+    top: 10px;
+    overflow: visible;
+}
+#FRONTEND_DEVELOPER_AND_WEB_DES {
+    left: 1121.698px;
+    top: 1451px;
+    position: absolute;
+    overflow: visible;
+    width: 459px;
+    height: 182px;
+    line-height: 50px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43px;
+    color: rgba(0,0,0,0.678);
+}
+#Tryna_be_the_best_frontend_dev {
+    left: 1122px;
+    top: 1649px;
+    position: absolute;
+    overflow: visible;
+    width: 527px;
+    height: 277px;
+    line-height: 30px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(0,0,0,0.722);
+}
+#kelly {
+    position: absolute;
+    width: 385px;
+    height: 748.5px;
+    left: 398.222px;
+    top: 1177px;
+    overflow: visible;
+}
+#What_Services_I_Can_Offer_you_ {
+    left: 709.503px;
+    top: 2160px;
+    position: absolute;
+    overflow: visible;
+    width: 499px;
+    height: 236px;
+    line-height: 80px;
+    margin-top: -11.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    color: rgba(0,0,0,0.722);
+}
+#programmer {
+    position: absolute;
+    width: 149px;
+    height: 149px;
+    left: 883.503px;
+    top: 2445px;
+    overflow: visible;
+}
+#web {
+    position: absolute;
+    top: 2445px;
+    left: 306px;
+    width: 149px;
+    height: 149px;
+    opacity: 1;
+}
+#ux-design {
+    opacity: 0.78;
+    position: absolute;
+    width: 150px;
+    height: 149px;
+    left: 1460.525px;
+    top: 2445px;
+    overflow: visible;
+}
+#Web_Development {
+    left: 143px;
+    top: 2648px;
+    position: absolute;
+    overflow: visible;
+    width: 480px;
+    height: 84px;
+    line-height: 85px;
+    margin-top: -22.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    color: rgba(0,0,0,0.722);
+}
+#Responsive_and_Fast {
+    left: 216px;
+    top: 2786px;
+    position: absolute;
+    overflow: visible;
+    width: 327px;
+    height: 57px;
+    line-height: 40px;
+    margin-top: -2.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(95,95,87,1);
+}
+#Every_website_should_be_built_ {
+    left: 143px;
+    top: 2859px;
+    position: absolute;
+    overflow: visible;
+    width: 480px;
+    height: 216px;
+    line-height: 40px;
+    margin-top: -2.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(95,95,87,1);
+}
+#Programming {
+    left: 719px;
+    top: 2648px;
+    position: absolute;
+    overflow: visible;
+    width: 480px;
+    height: 84px;
+    line-height: 85px;
+    margin-top: -22.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    color: rgba(0,0,0,0.722);
+}
+#Web_and_UIUX_Design {
+    left: 1295px;
+    top: 2648px;
+    position: absolute;
+    overflow: visible;
+    width: 480px;
+    height: 84px;
+    line-height: 85px;
+    margin-top: -22.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    color: rgba(0,0,0,0.722);
+}
+#User_Focused {
+    left: 1398px;
+    top: 2786px;
+    position: absolute;
+    overflow: visible;
+    width: 267px;
+    height: 57px;
+    line-height: 40px;
+    margin-top: -2.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(95,95,87,1);
+}
+#A_website_should_be_designed_f {
+    left: 1296px;
+    top: 2859px;
+    position: absolute;
+    overflow: visible;
+    width: 480px;
+    height: 276px;
+    line-height: 40px;
+    margin-top: -2.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    color: rgba(95,95,87,1);
+}
+#Lets_Work_Together_ {
+    left: 143px;
+    top: 3414px;
+    position: absolute;
+    overflow: visible;
+    width: 604px;
+    height: 90px;
+    line-height: 85px;
+    margin-top: -15px;
+    text-align: center;
+    font-family: Cooper;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    color: rgba(225,226,230,0.878);
+}
+#Have_a_project_youd_like_to_wo {
+    left: 143px;
+    top: 3558px;
+    position: absolute;
+    overflow: visible;
+    width: 579px;
+    height: 103px;
+    line-height: 40px;
+    margin-top: -2.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: rgba(225,226,230,0.878);
+}
+#Rectangle_11 {
+    fill: rgba(151,58,16,0.349);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_11 {
+    position: absolute;
+    overflow: visible;
+    width:410px;
+    height:110px;
+    left: 285px;
+    top: 3711px;
+}
+#Get_In_Touch {
+    left: 319.434px;
+    top: 3743px;
+    position: absolute;
+    overflow: visible;
+    width: 227px;
+    height: 47px;
+    line-height: 40px;
+    margin-top: -2.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    color: rgba(200,193,200,0.878);
+}
+#Contact {
+    left: 1295.686px;
+    top: 3414px;
+    position: absolute;
+    overflow: hidden;
+    width: 241px;
+    height: 45px;
+    line-height: 40px;
+    margin-top: -2.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(200,193,200,0.878);
+}
+#Capital__Accra_Region__Greater {
+    left: 1184px;
+    top: 3600px;
+    position: absolute;
+    overflow: visible;
+    width: 506px;
+    height: 190px;
+    line-height: 40px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    color: rgba(95,95,87,1);
+}
+#Rectangle_12 {
+    fill: rgba(225,226,230,0.851);
+}
+.Rectangle_12 {
+    position: absolute;
+    overflow: visible;
+    width: 562px;
+    height: 264px;
+    left: 1148px;
+    top: 3558px;
+}
+#ID2020_Droid_Corp {
+    left: 810.52px;
+    top: 4007px;
+    position: absolute;
+    overflow: visible;
+    width: 278px;
+    height: 40px;
+    line-height: 40px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(12,12,7,1);
+}
